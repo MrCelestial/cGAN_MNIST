@@ -1,3 +1,4 @@
+![generated_images](assets/generated_images)
 # Conditional GAN for MNIST Digit Generation
 
 This project implements a Conditional Generative Adversarial Network (cGAN) for generating handwritten digits based on the MNIST dataset. The implementation includes interactive components for exploring the model's capabilities directly in Google Colab.
